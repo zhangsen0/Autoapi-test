@@ -19,7 +19,6 @@ num1 = 0
 fo = open(path, "r+")
 refresh_token = fo.read()
 fo.close()
-# print(refresh_token)
 def gettoken(refresh_token):
     headers={'Content-Type':'application/x-www-form-urlencoded'
             }
