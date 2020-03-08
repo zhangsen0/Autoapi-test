@@ -1,11 +1,10 @@
 ### 注意 ###
 * 重大已更新！
 >- 1 ，修复了一个不为人知的bug？也不知道是不是bug，改了再说。。。
->-  更新加密版。 
->-1 ，修复了一个不为人知的bug？也不知道是不是bug，改了再说。。。
->-2 , 更新加密版。
-* 普通版地址：https://github.com/wangziyingwen/AutoApi
-* 加密版地址：https://github.com/wangziyingwen/AutoApiSecret
+>- 2 ,更新加密版。 
+
+* 普通版项目地址：https://github.com/wangziyingwen/AutoApi
+* 加密版项目地址：https://github.com/wangziyingwen/AutoApiSecret
 
 ### 区别 ###
 项目用的是公共仓库（开放代码），所有人都能看到你的代码内容。
