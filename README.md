@@ -1,7 +1,7 @@
 ### 注意 ###
 * 重大更新！
 >- 1 ，修复了一个不为人知的bug？也不知道是不是bug，改了再说。。。
->- 2 , 更新加密版。 
+>- 2 ，更新加密版。 
 
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
 * 加密版项目地址：https://github.com/wangziyingwen/AutoApiSecret
