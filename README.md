@@ -34,13 +34,17 @@
    
    ![image](https://github.com/wangziyingwen/Autoapi-test/blob/master/images/次数.png)
    
-   · 点击上面的Action就能看到每次的运行日志（都看下，api有没有调用到位，我就少了一个3，不管了）
+   · 点击上面的Action就能看到每次的运行日志（都看下，api有没有调用到位）
    
    ![image](https://github.com/wangziyingwen/Autoapi-test/blob/master/images/日志.png)
 
 ------------------------------------------------------------
+### 题外话 ###
+> Api调用
+  你们可以自己去graph浏览器看一下，学着自己修改要调用什么api(最重要的是调用outlook、onedrive)
+  https://developer.microsoft.com/zh-CN/graph/graph-explorer/preview
 
-### GithubAction介绍 ###
+> GithubAction介绍
 提供的虚拟环境：
 
 · 2-core CPU
