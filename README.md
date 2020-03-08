@@ -1,7 +1,7 @@
 ### 注意 ###
 * 重大更新-3/8(23)
 >- 1 ，修复了一个不为人知的bug？也不知道是不是bug，改了再说。。。
->-     无法复写refresh_token。        
+       无法复写refresh_token。        
 >- 2 ，更新加密版。 
 
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
