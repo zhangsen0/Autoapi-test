@@ -1,12 +1,11 @@
 ### 注意 ###
-*  本项目是建立在原教程可以正确调用api的假设上的，核心是paran/黑幕大佬的py脚本，本项目只是提供一个自动、免费、无需额外设备的脚本运方式。
-
 * 重大更新-3/8(23)
 >- 1 ，修复了一个不为人知的bug
 
        修复无法复写刷新refresh_token。        
 >- 2 ，更新加密版。 
-
+-------------------
+## 请跳转：##
 * 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
 * 加密版项目地址：https://github.com/wangziyingwen/AutoApiSecret
