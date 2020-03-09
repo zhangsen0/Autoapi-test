@@ -5,8 +5,7 @@
        修复无法复写刷新refresh_token。        
 >- 2 ，更新加密版。 
 -------------------
-## 请跳转：##
-* 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
+## 请跳转：
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
 * 加密版项目地址：https://github.com/wangziyingwen/AutoApiSecret
 
