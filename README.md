@@ -6,9 +6,9 @@
 >- 2 ，增加加密版。
 -------------------
 # 请跳转：
-**加以区分，AutoApi-test为旧版（有大bug，必须更新），AutoApi普通版/AutoApiSecret加密版为新版**
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
 * 加密版项目地址：https://github.com/wangziyingwen/AutoApiSecret
+**加以区分，Autopi-test为旧版（有大bug，必须更新），AutoApi普通版/AutoApiSecret加密版为新版**
 
 ### 区别 ###
 项目用的是公共仓库（开放代码），所有人都能看到你的代码内容。
