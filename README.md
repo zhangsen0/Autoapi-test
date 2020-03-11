@@ -3,7 +3,9 @@
 >- 1 ，修复了一个不为人知的超大bug
 
        修复无法复写刷新refresh_token。        
->- 2 ，更新加密版。 
+>- 2 ，增加加密版。
+
+       加以区分，AutoApi-test为旧版（必须更新），AutoApi/AutoApiSecret为新版
 -------------------
 ## 请跳转：
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
