@@ -8,6 +8,7 @@
 # 请跳转：
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
 * 加密版项目地址：https://github.com/wangziyingwen/AutoApiSecret
+
 **加以区分，Autopi-test为旧版（有大bug，必须更新），AutoApi普通版/AutoApiSecret加密版为新版**
 
 ### 区别 ###
