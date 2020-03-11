@@ -1,4 +1,5 @@
 ### 注意 ###
+**加以区分，Autopi-test为旧版（有大bug，必须更新），AutoApi普通版/AutoApiSecret加密版为新版**
 * 重大更新 3-8-20(23:00)
 >- 1 ，修复了一个不为人知的超大bug
 
@@ -8,8 +9,6 @@
 # 请跳转：
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
 * 加密版项目地址：https://github.com/wangziyingwen/AutoApiSecret
-
-**加以区分，Autopi-test为旧版（有大bug，必须更新），AutoApi普通版/AutoApiSecret加密版为新版**
 
 ### 区别 ###
 项目用的是公共仓库（开放代码），所有人都能看到你的代码内容。
