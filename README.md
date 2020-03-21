@@ -1,5 +1,9 @@
 ### 注意 ###
-**加以区分，Autoapi-test为旧版（有大bug，项目名字为这个的，必须更新），AutoApi 、AutoApiSecret为新版（项目名字为这两个的，无bug，不用更新）**
+**加以区分，Autoapi-test为旧版（有大bug，项目名字为这个的，必须更新），AutoApi 、AutoApiSecret、AutoApiSR为新版（项目名字为这两个的，无bug，不用更新）**
+* 小更新
+>- 增加模仿人为开发版
+       
+         分离refresh_token更新与api调用
 * 重大更新 3-8-20(23:00)
 >- 1 ，修复了一个不为人知的超大bug
 
@@ -9,6 +13,7 @@
 # 请跳转：
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
 * 加密版项目地址：https://github.com/wangziyingwen/AutoApiSecret
+* 模仿人为开发版：https://github.com/wangziyingwen/AutoApiSR
 
 ### 区别 ###
 项目用的是公共仓库（开放代码），所有人都能看到你的代码内容。
