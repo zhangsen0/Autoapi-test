@@ -1,14 +1,14 @@
 ### 注意 ###
 **加以区分，Autoapi-test为旧版（有大bug，项目名字为这个的，必须更新），AutoApi 、AutoApiSecret、AutoApiSR为新版（项目名字为这两个的，无bug，不用更新）**
 * 小更新 3-21-20(19:00)
->- 增加模仿人为开发版
+  * 增加模仿人为开发版
        
          分离refresh_token更新与api调用
 * 重大更新 3-8-20(23:00)
->- 1 ，修复了一个不为人知的超大bug
+  * 1 ，修复了一个不为人知的超大bug
 
        修复无法复写刷新refresh_token。 
->- 2 ，增加加密版。
+  * 2 ，增加加密版。
 -------------------
 # 请跳转：
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
