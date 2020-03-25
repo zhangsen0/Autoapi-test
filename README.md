@@ -1,5 +1,9 @@
 ### 注意 ###
 **加以区分，Autoapi-test为旧版（有大bug，项目名字为这个的，必须更新），AutoApi 、AutoApiSecret、AutoApiSR为新版（项目名字为这两个的，无bug，不用更新）**
+* 修复 3-26-20(01:00)
+  * 修复AutoApiSR时差问题
+  
+         github服务器与中国时间有时差，导致AutoApiSR脱离设计本意
 * 小更新 3-21-20(19:00)
   * 增加模仿人为开发版
        
