@@ -1,7 +1,10 @@
 ### 注意 ###
+
 **加以区分，Autoapi-test为旧版（有大bug，项目名字为这个的，必须更新），AutoApi 、AutoApiSecret、AutoApiSR为新版（项目名字为这两个的，无bug，不用更新）**
+
 * 更新 4-30-20(00:00)
   * AutoApiS超级版正式发布
+  
 * 修复 3-26-20(01:00)
   * 修复AutoApiSR时差问题
   
