@@ -1,6 +1,6 @@
 ### 注意 ###
 
-**加以区分，Autoapi-test为旧版（有大bug，项目名字为这个的，必须更新），AutoApi 、AutoApiSecret、AutoApiSR为新版（项目名字为这两个的，无bug，不用更新）**
+**加以区分，Autoapi-test为旧版（有大bug，项目名字为这个的，必须更新），AutoApi 、AutoApiSecret、AutoApiSR、AutoApiS为新版（项目名字为这两个的，无bug，不用更新）**
 
 * 更新 4-30-20(00:00)
   * AutoApiS超级版正式发布
@@ -16,7 +16,7 @@
 * 重大更新 3-8-20(23:00)
   * 1 ，修复了一个不为人知的超大bug
 
-         修复无法复写刷新refresh_token。 
+         修复无法复写刷新refresh_token。 （旧版autoapi-test的问题）
   * 2 ，增加加密版。
 -------------------
 # 请跳转：
