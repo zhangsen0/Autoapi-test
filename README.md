@@ -41,7 +41,7 @@
   * AutoApiS超级版正式发布
   
 * 修复 3-26-20(01:00)
-  * 修复AutoApiSR时差问题
+  * 改善AutoApiSR时差问题
   
          github服务器与中国时间有时差，导致AutoApiSR脱离设计本意(修改位置：autoapi.yml里的schedule，9,13,16改成了1,5,8)
 * 小更新 3-21-20(19:00)
