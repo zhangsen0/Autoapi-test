@@ -1,4 +1,37 @@
-### 注意 ###
+
+### 问题 ###
+
+**部署过程中**出错：
+
+1，提示 refresh_token 错误之前
+       
+       原因：refresh格式错误、设置里的id/机密位置混乱了
+
+       解决办法：首先确认设置secret里的id、机密是否填对位置。然后用rclone重新获取refresh_token替换1.txt，注意末尾不要有**空格/空行**。
+
+2，提示 *** 错误
+       
+       原因：设置secret里，config_id/config_key格式错误
+
+       解决办法：详细看readme，注意格式，删除新建config_id跟config_key。
+
+3，api数缺少
+     
+       解决办法：首先，查看api赋权是否正确（s版请按readme的api权限授权），是否“代表管理员授权”。
+               
+               再，确保onedrive已成功初始化/激活，还没就等。
+
+** 正常运行后的 **出错
+
+1，之前正常运行，莫名其妙出错 并 提示 refresh_token 错误
+  
+      原因：不明，出现几率低。应该是微软方面的问题，触发了某种安全策略？token库存满了？导致token过期失效。
+      
+      解决办法：1，如果有备份应用id跟机密的：用rclone重新获取token替换1.txt
+
+               2，没有备份的：回到azure（注册应用的那个网页）里找到之前注册的应用，找到应用id；机密需要新建一个。然后用rclone获取token替换一下。
+
+### 更新日志 ###
 
 **加以区分，Autoapi-test为旧版（有大bug，项目名字为这个的，必须更新），AutoApi 、AutoApiSecret、AutoApiSR、AutoApiS为新版（项目名字为这两个的，无bug，不用更新）**
 
@@ -19,6 +52,7 @@
          修复无法复写刷新refresh_token。 （旧版autoapi-test的问题）
   * 2 ，增加加密版。
 -------------------
+
 # 请跳转：
 * 普通版项目地址：https://github.com/wangziyingwen/AutoApi
 * 加密版项目地址：https://github.com/wangziyingwen/AutoApiSecret
