@@ -3,7 +3,7 @@
 
 **部署过程中**出错：
 
-1，提示 refresh_token 错误之前
+1，提示 refresh_token 错误
        
        原因：refresh格式错误、设置里的id/机密位置混乱了
 
