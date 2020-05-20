@@ -13,7 +13,7 @@
        
        原因：设置secret里，config_id/config_key格式错误
 
-       解决办法：详细看readme，注意格式，删除新建config_id跟config_key。
+       解决办法：详细看readme，注意格式，删除并新建config_id跟config_key。
 
 3，api数缺少
      
