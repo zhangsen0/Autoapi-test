@@ -7,7 +7,7 @@
        
        原因：refresh格式错误、设置里的id/机密位置混乱了
 
-       解决办法：首先确认设置secret里的id、机密是否填对位置。然后用rclone重新获取refresh_token替换1.txt，注意末尾不要有**空格/空行**。
+       解决办法：首先确认设置secret里的id、机密是否填对位置。然后用rclone重新获取refresh_token替换1.txt，注意末尾不要有空格/空行。
 
 2，提示 *** 错误
        
