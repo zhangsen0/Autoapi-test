@@ -42,7 +42,7 @@
 
       原因：不明，只在autoapiSR版出现，github无法识别yml文件
       
-      解决办法：.gitHub/workflows里的两个yml文件的schedule -cron行，第一个数改一下，各加1然后保存。例如“55 0 * * *”改成“56 0 * * *”
+      解决办法：.gitHub/workflows里的两个yml文件的schedule -cron行，第一个数改一下，各加1然后保存，两文件都要改。例如“55 0 * * *”改成“56 0 * * *”
        
       群友提供办法：action里新建两个workflow，内容各为原项目.github/workflows/下的两个文件，名字另起
 
