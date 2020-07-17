@@ -9,9 +9,9 @@ import json,sys,time
 
 ###################################################################
 #把下方单引号内的内容改为你的应用id                                         #
-id=r'4acf37bf-31e6-43d8-94c7-bcd7f9bd9955'                         
+id=r'.xfB6go4~L11-kbnixc5jIUHQXC6.N8u7~'                         
 #把下方单引号内的内容改为你的应用机密                                       #
-secret=r'.xfB6go4~L11-kbnixc5jIUHQXC6.N8u7~'                                           
+secret=r'4acf37bf-31e6-43d8-94c7-bcd7f9bd9955'                                           
 ###################################################################
 with open(path, 'w+') as f:
         f.write(refresh_token)
