@@ -13,7 +13,8 @@ id=r'4acf37bf-31e6-43d8-94c7-bcd7f9bd9955'
 #把下方单引号内的内容改为你的应用机密                                       #
 secret=r'.xfB6go4~L11-kbnixc5jIUHQXC6.N8u7~'                                           
 ###################################################################
-
+with open(path, 'w+') as f:
+        f.write(refresh_token)
 path=sys.path[0]+r'/1.txt'
 num1 = 0
 
@@ -30,8 +31,7 @@ def gettoken(refresh_token):
     jsontxt = json.loads(html.text)
     refresh_token = jsontxt['refresh_token']
     access_token = jsontxt['access_token']
-    with open(path, 'w+') as f:
-        f.write(refresh_token)
+   
     return access_token
 def main():
     fo = open(path, "r+")
